@@ -1,6 +1,7 @@
-/test
-/.vscode
+test/
+.vscode/
+build/
+
 test.*
-1
-*.txt
+test
 *.log.txt
